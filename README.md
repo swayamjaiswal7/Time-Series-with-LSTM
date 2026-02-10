@@ -180,14 +180,10 @@ fat tails
 volatility clustering
 market randomness in short-term
 - LSTM provides superior predictive performance, especially for short-term forecasting and non-linear patterns.
-
-- Both models struggle during extreme volatility, proving markets remain partially unpredictable.
-
 ##### This project provides a clear time-series-based understanding of how policy decisions and macro events influence investor sentiment, enabling:
 - Improved risk interpretation
 - Volatility awareness
 - Event-driven market forecasting perspective
 - Better decision-making for investors and analysts.
-LSTM provides superior predictive performance, especially for short-term forecasting and non-linear patterns.
-
-Both models struggle during extreme volatility, proving markets remain partially unpredictable.
+- LSTM provides superior predictive performance, especially for short-term forecasting and non-linear patterns.
+- Both models struggle during extreme volatility, proving markets remain partially unpredictable.
